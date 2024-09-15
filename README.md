@@ -1,8 +1,11 @@
-# React + Vite
+# Punto 11 de react pagina de noticias
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Características
+Muestra noticias filtradas por categorías como tecnología, deportes, negocios, etc.
+Permite filtrar noticias por país.
+Interfaz responsiva y amigable.
+## Requisitos
+Antes de comenzar, asegúrate de tener instalado:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js (v14 o superior)
+npm o yarn
