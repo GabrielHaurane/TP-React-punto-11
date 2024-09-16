@@ -20,4 +20,4 @@ Este proyecto es una aplicación web que permite a los usuarios consultar notici
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/GabrielHaurane/TP-React-punto-11
